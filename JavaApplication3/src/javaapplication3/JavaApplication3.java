@@ -15,9 +15,14 @@ public class JavaApplication3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       NewClass newclassobject=new NewClass();
-       statement marksobjet= new statement();
-       marksobjet.marks();
+//       NewClass newclassobject=new NewClass();
+//       statement marksobjet= new statement();
+//       marksobjet.marks();
+       // cal calobject=new cal();
+        //calobject.calc();
+        
+        quiz quizobject=new quiz();
+        quizobject.check();
     }
     
 }
