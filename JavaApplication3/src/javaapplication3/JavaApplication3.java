@@ -21,8 +21,12 @@ public class JavaApplication3 {
        // cal calobject=new cal();
         //calobject.calc();
         
-        quiz quizobject=new quiz();
-        quizobject.check();
+        //quiz quizobject=new quiz();
+        //quizobject.check();
+       // forstar forstarobject=new forstar();
+       // forstarobject.star();
+       counter counterobject= new counter();
+       counterobject.counternum();
     }
     
 }
