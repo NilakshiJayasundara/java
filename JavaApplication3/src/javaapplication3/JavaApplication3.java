@@ -51,12 +51,15 @@ public class JavaApplication3 {
       // demo demoobject = new demo();
 
       // parameterized constructors
-      paracons paraconsobject = new paracons("nila");
+     /*paracons paraconsobject = new paracons("nila");
       paracons paraconsobject2 = new paracons("beauty");
       
       
       paraconsobject.saying();
-      paraconsobject2.saying();
+      paraconsobject2.saying();*/
+     
+     operators opeobject = new operators();
+     opeobject.operat();
       
       
 
