@@ -30,13 +30,22 @@ public class JavaApplication3 {
        //counterobject.counternum();
        //paramethd paraobject = new paramethd();
        //paraobject.simpleMessage(name);
-       Scanner input= new Scanner(System.in);
+       /*Scanner input= new Scanner(System.in);
        System.out.println("Enter your first gf name");
        String myname=input.nextLine();
        
        tuna obj1=new tuna();
        obj1.setName(myname);
-       obj1.saying();
+       obj1.saying();*/
+       Scanner input = new Scanner(System.in);
+       System.out.println("Enter employee Age");
+       int age=input.nextInt();
+       
+       EnacpsultionDemo obj2 = new EnacpsultionDemo();
+       obj2.setEmpAge(age);
+       obj2.take();
+       
+       
        
        
     }
