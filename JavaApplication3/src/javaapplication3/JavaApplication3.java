@@ -58,8 +58,11 @@ public class JavaApplication3 {
       paraconsobject.saying();
       paraconsobject2.saying();*/
      
-     operators opeobject = new operators();
-     opeobject.operat();
+     /*operators opeobject = new operators();
+     opeobject.operat();*/
+     
+     Averagepro obj4 =new Averagepro();
+     obj4. sample();
       
       
 
