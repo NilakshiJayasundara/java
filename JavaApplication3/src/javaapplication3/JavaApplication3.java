@@ -9,6 +9,7 @@ package javaapplication3;
  *
  * @author nilakshi
  */
+import java.util.Scanner;
 public class JavaApplication3 {
 
     /**
@@ -25,8 +26,19 @@ public class JavaApplication3 {
         //quizobject.check();
        // forstar forstarobject=new forstar();
        // forstarobject.star();
-       counter counterobject= new counter();
-       counterobject.counternum();
+       //counter counterobject= new counter();
+       //counterobject.counternum();
+       //paramethd paraobject = new paramethd();
+       //paraobject.simpleMessage(name);
+       Scanner input= new Scanner(System.in);
+       System.out.println("Enter your first gf name");
+       String myname=input.nextLine();
+       
+       tuna obj1=new tuna();
+       obj1.setName(myname);
+       obj1.saying();
+       
+       
     }
     
 }
