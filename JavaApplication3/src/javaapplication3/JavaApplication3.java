@@ -61,8 +61,11 @@ public class JavaApplication3 {
      /*operators opeobject = new operators();
      opeobject.operat();*/
      
-     Averagepro obj4 =new Averagepro();
-     obj4. sample();
+     /*Averagepro obj4 =new Averagepro();
+     obj4. sample();*/
+     
+     apples obj5 = new apples();
+     obj5.doo();
       
       
 
