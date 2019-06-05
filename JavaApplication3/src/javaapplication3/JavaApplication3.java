@@ -67,8 +67,11 @@ public class JavaApplication3 {
      /*apples obj5 = new apples();
      obj5.doo();*/
      
-    RNumber RNumberobject = new RNumber();
-    RNumberobject.Rnum();
+    /*RNumber RNumberobject = new RNumber();
+    RNumberobject.Rnum();*/
+    
+    NewArray NewArrayobject = new NewArray();
+    NewArrayobject.arry();
      
      
       
