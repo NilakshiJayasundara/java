@@ -64,8 +64,13 @@ public class JavaApplication3 {
      /*Averagepro obj4 =new Averagepro();
      obj4. sample();*/
      
-     apples obj5 = new apples();
-     obj5.doo();
+     /*apples obj5 = new apples();
+     obj5.doo();*/
+     
+    RNumber RNumberobject = new RNumber();
+    RNumberobject.Rnum();
+     
+     
       
       
 
