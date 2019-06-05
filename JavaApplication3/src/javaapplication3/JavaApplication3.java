@@ -70,8 +70,14 @@ public class JavaApplication3 {
     /*RNumber RNumberobject = new RNumber();
     RNumberobject.Rnum();*/
     
-    NewArray NewArrayobject = new NewArray();
-    NewArrayobject.arry();
+    /*NewArray NewArrayobject = new NewArray();
+    NewArrayobject.arry();*/
+    
+   /*Tablearray obj8 =new Tablearray();
+   obj8.table();*/
+   
+   Summing obj9 = new Summing();
+   obj9.sumarray();
      
      
       
