@@ -76,8 +76,13 @@ public class JavaApplication3 {
    /*Tablearray obj8 =new Tablearray();
    obj8.table();*/
    
-   Summing obj9 = new Summing();
-   obj9.sumarray();
+   /*Summing obj9 = new Summing();
+   obj9.sumarray();*/
+   
+   
+   coun obj10 = new coun();
+   obj10.countarry();
+   
      
      
       
